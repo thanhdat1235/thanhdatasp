@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head> 
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collaose-1">
+        <img src="~/images/anhlogo.jpg" ; style=" height=" 6500px" width="200px" "  />
+        <ul class="nav navbar-nav">
+            <li>
+                @Html.ActionLink("Trang chủ", "INDEX", "Admin")
+            </li>
+            <li>
+                @Html.ActionLink("Quản lý sách", "Sach", "Admin")
+            </li>
+            <li>
+                @Html.ActionLink("Quay lại trang chủ", "Index", "book")
+            </li>
+        </ul>
+    </div>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <script src="~/NewFolder1/tinymce/js/tinymce/tinymce.min.js"></script>
+    <script>tinymce.init({ selector: 'textarea' });</script>
+
+</head>
+<body>
+
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

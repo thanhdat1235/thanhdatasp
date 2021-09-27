@@ -1,0 +1,14 @@
+﻿@model IEnumerable<DEMO.Models.NHAXUATBAN>
+@{
+    ViewBag.Title = "Nhà Xuất Bản";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<p class="lead">NHÀ XUẤT BẢN</p>
+<div class="col-lg-3">
+    <div class="list-group">
+        @foreach (var item in Model)
+        {
+        <a href="@Url.Action("sptheoNXB","book",new { id=item.MaNXB})" class="list-group-item">@item.TenNXB</a>
+        }
+    </div>
+</div>

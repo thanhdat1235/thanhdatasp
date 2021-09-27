@@ -1,0 +1,36 @@
+﻿@model IEnumerable<DEMO.Models.SACH>
+@{
+    ViewBag.Title = "Sản Phẩm Theo Chủ Đề";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    <div>
+        <img src="~/images/anhlogo.jpg" ; style=" height=" 6500px" width="200px" " />
+    </div>
+    <div class="row">
+        <div class="col-lg-3">
+            @Html.Action("chude", "book")
+
+            @Html.Action("nhaxuatban", "book")
+        </div>
+        <div class="row" style="margin-top:49px">
+            @foreach (var sach in Model)
+            {
+                <div class="col-lg-4 col-sm-4 col-md-4">
+                    <div class="thumbnail">
+                        <a href="@Url.Action("detail","book",new {id=sach.Masach})">
+                            <img alt="@sach.Tensach" src="~/images/@sach.Anhbia" width="150" />
+                        </a>
+                        <div>
+                            <br />
+                            <h4 style="text-align:center">
+                                @sach.Tensach
+                            </h4>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

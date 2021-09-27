@@ -1,0 +1,319 @@
+D:\baitap_visual\DEMO\bin\DEMO.dll.config
+D:\baitap_visual\DEMO\bin\DEMO.dll
+D:\baitap_visual\DEMO\bin\DEMO.pdb
+D:\baitap_visual\DEMO\bin\roslyn\csc.exe
+D:\baitap_visual\DEMO\bin\roslyn\csc.exe.config
+D:\baitap_visual\DEMO\bin\roslyn\csc.rsp
+D:\baitap_visual\DEMO\bin\roslyn\csi.exe
+D:\baitap_visual\DEMO\bin\roslyn\csi.exe.config
+D:\baitap_visual\DEMO\bin\roslyn\csi.rsp
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\baitap_visual\DEMO\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.AppContext.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Collections.Immutable.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Console.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Globalization.Calendars.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.IO.Compression.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.IO.FileSystem.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Net.Http.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Net.Sockets.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Reflection.Metadata.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.ValueTuple.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Xml.XPath.dll
+D:\baitap_visual\DEMO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\baitap_visual\DEMO\bin\roslyn\vbc.exe
+D:\baitap_visual\DEMO\bin\roslyn\vbc.exe.config
+D:\baitap_visual\DEMO\bin\roslyn\vbc.rsp
+D:\baitap_visual\DEMO\bin\roslyn\VBCSCompiler.exe
+D:\baitap_visual\DEMO\bin\roslyn\VBCSCompiler.exe.config
+D:\baitap_visual\DEMO\bin\Antlr3.Runtime.dll
+D:\baitap_visual\DEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\baitap_visual\DEMO\bin\Microsoft.Web.Infrastructure.dll
+D:\baitap_visual\DEMO\bin\Newtonsoft.Json.dll
+D:\baitap_visual\DEMO\bin\System.Web.Helpers.dll
+D:\baitap_visual\DEMO\bin\System.Web.Mvc.dll
+D:\baitap_visual\DEMO\bin\System.Web.Optimization.dll
+D:\baitap_visual\DEMO\bin\System.Web.Razor.dll
+D:\baitap_visual\DEMO\bin\System.Web.WebPages.Deployment.dll
+D:\baitap_visual\DEMO\bin\System.Web.WebPages.dll
+D:\baitap_visual\DEMO\bin\System.Web.WebPages.Razor.dll
+D:\baitap_visual\DEMO\bin\WebGrease.dll
+D:\baitap_visual\DEMO\bin\System.Web.Helpers.xml
+D:\baitap_visual\DEMO\bin\System.Web.Mvc.xml
+D:\baitap_visual\DEMO\bin\System.Web.Optimization.xml
+D:\baitap_visual\DEMO\bin\System.Web.Razor.xml
+D:\baitap_visual\DEMO\bin\System.Web.WebPages.xml
+D:\baitap_visual\DEMO\bin\System.Web.WebPages.Deployment.xml
+D:\baitap_visual\DEMO\bin\System.Web.WebPages.Razor.xml
+D:\baitap_visual\DEMO\bin\Newtonsoft.Json.xml
+D:\baitap_visual\DEMO\bin\Antlr3.Runtime.pdb
+D:\baitap_visual\DEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\baitap_visual\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+D:\baitap_visual\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\baitap_visual\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+D:\baitap_visual\DEMO\obj\Debug\DEMO.dll
+D:\baitap_visual\DEMO\obj\Debug\DEMO.pdb
+C:\Users\win10 2021\Downloads\DEMO\bin\DEMO.dll.config
+C:\Users\win10 2021\Downloads\DEMO\bin\DEMO.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\DEMO.pdb
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\csc.exe
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\csc.exe.config
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\csc.rsp
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\csi.exe
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\csi.exe.config
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\csi.rsp
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.AppContext.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Console.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.IO.Compression.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Net.Http.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Net.Sockets.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.ValueTuple.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\vbc.exe
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\vbc.exe.config
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\vbc.rsp
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10 2021\Downloads\DEMO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10 2021\Downloads\DEMO\bin\Antlr3.Runtime.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\Newtonsoft.Json.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.Helpers.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.Mvc.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.Optimization.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.Razor.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.WebPages.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.WebPages.Razor.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\WebGrease.dll
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.Helpers.xml
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.Mvc.xml
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.Optimization.xml
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.Razor.xml
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.WebPages.xml
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win10 2021\Downloads\DEMO\bin\System.Web.WebPages.Razor.xml
+C:\Users\win10 2021\Downloads\DEMO\bin\Newtonsoft.Json.xml
+C:\Users\win10 2021\Downloads\DEMO\bin\Antlr3.Runtime.pdb
+C:\Users\win10 2021\Downloads\DEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10 2021\Downloads\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\win10 2021\Downloads\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\win10 2021\Downloads\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+C:\Users\win10 2021\Downloads\DEMO\obj\Debug\DEMO.dll
+C:\Users\win10 2021\Downloads\DEMO\obj\Debug\DEMO.pdb
+F:\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+F:\DEMO\bin\DEMO.dll.config
+F:\DEMO\bin\DEMO.dll
+F:\DEMO\bin\DEMO.pdb
+F:\DEMO\bin\roslyn\csc.exe
+F:\DEMO\bin\roslyn\csc.exe.config
+F:\DEMO\bin\roslyn\csc.rsp
+F:\DEMO\bin\roslyn\csi.exe
+F:\DEMO\bin\roslyn\csi.exe.config
+F:\DEMO\bin\roslyn\csi.rsp
+F:\DEMO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DEMO\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DEMO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DEMO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DEMO\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DEMO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DEMO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DEMO\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DEMO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DEMO\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\DEMO\bin\roslyn\System.AppContext.dll
+F:\DEMO\bin\roslyn\System.Collections.Immutable.dll
+F:\DEMO\bin\roslyn\System.Console.dll
+F:\DEMO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\DEMO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DEMO\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DEMO\bin\roslyn\System.Globalization.Calendars.dll
+F:\DEMO\bin\roslyn\System.IO.Compression.dll
+F:\DEMO\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\DEMO\bin\roslyn\System.IO.FileSystem.dll
+F:\DEMO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DEMO\bin\roslyn\System.Net.Http.dll
+F:\DEMO\bin\roslyn\System.Net.Sockets.dll
+F:\DEMO\bin\roslyn\System.Reflection.Metadata.dll
+F:\DEMO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\DEMO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DEMO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DEMO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DEMO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DEMO\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DEMO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\DEMO\bin\roslyn\System.ValueTuple.dll
+F:\DEMO\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DEMO\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DEMO\bin\roslyn\System.Xml.XPath.dll
+F:\DEMO\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DEMO\bin\roslyn\vbc.exe
+F:\DEMO\bin\roslyn\vbc.exe.config
+F:\DEMO\bin\roslyn\vbc.rsp
+F:\DEMO\bin\roslyn\VBCSCompiler.exe
+F:\DEMO\bin\roslyn\VBCSCompiler.exe.config
+F:\DEMO\bin\Antlr3.Runtime.dll
+F:\DEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DEMO\bin\Microsoft.Web.Infrastructure.dll
+F:\DEMO\bin\Newtonsoft.Json.dll
+F:\DEMO\bin\System.Web.Helpers.dll
+F:\DEMO\bin\System.Web.Mvc.dll
+F:\DEMO\bin\System.Web.Optimization.dll
+F:\DEMO\bin\System.Web.Razor.dll
+F:\DEMO\bin\System.Web.WebPages.Deployment.dll
+F:\DEMO\bin\System.Web.WebPages.dll
+F:\DEMO\bin\System.Web.WebPages.Razor.dll
+F:\DEMO\bin\WebGrease.dll
+F:\DEMO\bin\System.Web.Helpers.xml
+F:\DEMO\bin\System.Web.Mvc.xml
+F:\DEMO\bin\System.Web.Optimization.xml
+F:\DEMO\bin\System.Web.Razor.xml
+F:\DEMO\bin\System.Web.WebPages.xml
+F:\DEMO\bin\System.Web.WebPages.Deployment.xml
+F:\DEMO\bin\System.Web.WebPages.Razor.xml
+F:\DEMO\bin\Newtonsoft.Json.xml
+F:\DEMO\bin\Antlr3.Runtime.pdb
+F:\DEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+F:\DEMO\obj\Debug\DEMO.dll
+F:\DEMO\obj\Debug\DEMO.pdb
+D:\bai tap visual\DEMO\bin\DEMO.dll.config
+D:\bai tap visual\DEMO\bin\DEMO.dll
+D:\bai tap visual\DEMO\bin\DEMO.pdb
+D:\bai tap visual\DEMO\bin\roslyn\csc.exe
+D:\bai tap visual\DEMO\bin\roslyn\csc.exe.config
+D:\bai tap visual\DEMO\bin\roslyn\csc.rsp
+D:\bai tap visual\DEMO\bin\roslyn\csi.exe
+D:\bai tap visual\DEMO\bin\roslyn\csi.exe.config
+D:\bai tap visual\DEMO\bin\roslyn\csi.rsp
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\bai tap visual\DEMO\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.AppContext.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Collections.Immutable.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Console.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Globalization.Calendars.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.IO.Compression.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.IO.FileSystem.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Net.Http.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Net.Sockets.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Reflection.Metadata.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.ValueTuple.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Xml.XPath.dll
+D:\bai tap visual\DEMO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\bai tap visual\DEMO\bin\roslyn\vbc.exe
+D:\bai tap visual\DEMO\bin\roslyn\vbc.exe.config
+D:\bai tap visual\DEMO\bin\roslyn\vbc.rsp
+D:\bai tap visual\DEMO\bin\roslyn\VBCSCompiler.exe
+D:\bai tap visual\DEMO\bin\roslyn\VBCSCompiler.exe.config
+D:\bai tap visual\DEMO\bin\Antlr3.Runtime.dll
+D:\bai tap visual\DEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\bai tap visual\DEMO\bin\Microsoft.Web.Infrastructure.dll
+D:\bai tap visual\DEMO\bin\Newtonsoft.Json.dll
+D:\bai tap visual\DEMO\bin\PagedList.dll
+D:\bai tap visual\DEMO\bin\PagedList.Mvc.dll
+D:\bai tap visual\DEMO\bin\System.Web.Helpers.dll
+D:\bai tap visual\DEMO\bin\System.Web.Mvc.dll
+D:\bai tap visual\DEMO\bin\System.Web.Optimization.dll
+D:\bai tap visual\DEMO\bin\System.Web.Razor.dll
+D:\bai tap visual\DEMO\bin\System.Web.WebPages.Deployment.dll
+D:\bai tap visual\DEMO\bin\System.Web.WebPages.dll
+D:\bai tap visual\DEMO\bin\System.Web.WebPages.Razor.dll
+D:\bai tap visual\DEMO\bin\WebGrease.dll
+D:\bai tap visual\DEMO\bin\PagedList.xml
+D:\bai tap visual\DEMO\bin\PagedList.Mvc.xml
+D:\bai tap visual\DEMO\bin\System.Web.Helpers.xml
+D:\bai tap visual\DEMO\bin\System.Web.Mvc.xml
+D:\bai tap visual\DEMO\bin\System.Web.Optimization.xml
+D:\bai tap visual\DEMO\bin\System.Web.Razor.xml
+D:\bai tap visual\DEMO\bin\System.Web.WebPages.xml
+D:\bai tap visual\DEMO\bin\System.Web.WebPages.Deployment.xml
+D:\bai tap visual\DEMO\bin\System.Web.WebPages.Razor.xml
+D:\bai tap visual\DEMO\bin\Newtonsoft.Json.xml
+D:\bai tap visual\DEMO\bin\Antlr3.Runtime.pdb
+D:\bai tap visual\DEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\bai tap visual\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+D:\bai tap visual\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+D:\bai tap visual\DEMO\obj\Debug\DEMO.dll
+D:\bai tap visual\DEMO\obj\Debug\DEMO.pdb
+D:\bai tap visual\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache

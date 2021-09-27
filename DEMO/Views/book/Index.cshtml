@@ -1,0 +1,49 @@
+﻿@using DEMO.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<SACH>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}<div>
+    <img src="~/images/anhlogo.jpg" ; style=" height=" 6500px" width="200px" " />
+    <h2 style="text-align:center; color:red">>>>>>>>>>WellCome<<<<<<<<<</h2>
+</div>
+ <div class="container">
+         <div class="row">
+             <div class="col-lg-3">
+                 @Html.Action("chude", "book")
+
+                 @Html.Action("nhaxuatban", "book")
+
+             </div>
+             <div class="row" style="margin-top:49px">
+                 @foreach (var sach in Model)
+                 {
+                     <div class="col-lg-2 col-sm-2 col-md-2">
+                         <div class="thumbnail">
+                             <a href="@Url.Action("detail","book",new {id=sach.Masach})">
+                                 <img alt="@sach.Tensach" src="~/images/@sach.Anhbia" width="100" />
+
+                                 <div>
+                                     <br />
+                                     <h4 style="text-align:center">@sach.Tensach</h4>
+                                     <p></p>
+                                 </div>
+                                 <div class="col-sm-4 col-lg-4 col-md-4">
+                                 </div>
+                         </div>
+
+                     </div>
+                 }
+             </div>
+         </div>
+     </div>
+Trang @(Model.PageCount<Model.PageNumber?0:Model.PageNumber)/@Model.PageCount;
+<div class="MeunuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>
+<style>
+    .MeunuTrang li {
+        display: inline;
+    }
+</style>

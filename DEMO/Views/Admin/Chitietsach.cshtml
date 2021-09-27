@@ -1,0 +1,69 @@
+﻿@model DEMO.Models.SACH
+
+@{
+    ViewBag.Title = "Chitietsach";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3>Chitietsach</h3>
+<div>
+    <h4>SACH</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên Sách:
+        </dt>
+        <dt>
+            @Html.DisplayNameFor(model => model.Tensach)
+        </dt>
+        <dt>
+            Giá bán:
+        </dt>
+        <dt>
+            @string.Format("{0:0,0}",Model.Giaban)VND
+        </dt>
+        <dt>
+            Mô tả:
+        </dt>
+        <dd style="width:600px; text-align:justify">
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+        <dt>
+            Ảnh bìa:
+        </dt>
+        <dd>
+            <img src="@Url.Content("~/images/"+ Model.Anhbia)" width="120px"/>
+        </dd>
+        <dt>
+            Ngày cập nhât:
+        </dt>
+        <dd>
+            @string.Format("{0:dd/MM/yy}",Model.Ngaycapnhat)VND
+        </dd>
+        <dt>
+            Số lượng tồn:
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Soluongton )
+        </dd>
+        <dt>
+            Chủ đề:
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CHUDE.TenChuDe)
+        </dd>
+
+        <dt>
+            Tên nhà xuất bản:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NHAXUATBAN.TenNXB)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Điều chỉnh", "Edit", new { id = Model.Masach }) |
+    @Html.ActionLink("Trở về ", "Index")
+</p>
